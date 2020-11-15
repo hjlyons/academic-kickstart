@@ -4,3 +4,8 @@
 # Hugo
 /resources/
 public/
+.Rproj.user
+
+# Generic
+.Rhistory
+.DS_Store
