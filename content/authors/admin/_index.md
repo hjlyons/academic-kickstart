@@ -30,7 +30,7 @@ education:
     year: 2021
   - course: MPhys Physics
     institution: University of Liverpool
-    year: 2009
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
