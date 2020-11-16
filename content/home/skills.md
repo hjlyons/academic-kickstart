@@ -21,7 +21,7 @@ subtitle = ""
 
 [[feature]]
   icon = "computer-classic"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Bash"
 
 [[feature]]
@@ -34,6 +34,10 @@ subtitle = ""
   icon_pack = "fas"
   name = "Monte Carlo"
 
+[[feature]]
+  icon = "atom"
+  icon_pack = "fas"
+  name = "Physics"
 
 
 # Uncomment to use emoji icons.
