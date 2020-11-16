@@ -18,16 +18,22 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  
+
+[[feature]]
+  icon = "computer-classic"
+  icon_pack = "fab"
+  name = "Bash"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Monte Carlo"
+  name = "Statistics"
 
 [[feature]]
-icon = "chart-line"
-icon_pack = "fas"
-name = "Statistics"
+  icon = "dice"
+  icon_pack = "fas"
+  name = "Monte Carlo"
+
 
 
 # Uncomment to use emoji icons.
