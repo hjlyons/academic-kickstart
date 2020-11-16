@@ -20,7 +20,7 @@ subtitle = ""
   name = "Python"
 
 [[feature]]
-  icon = "computer-classic"
+  icon = "terminal"
   icon_pack = "fas"
   name = "Bash"
 
