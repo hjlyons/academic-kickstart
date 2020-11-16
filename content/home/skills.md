@@ -22,7 +22,7 @@ subtitle = ""
 [[feature]]
   icon = "terminal"
   icon_pack = "fas"
-  name = "Bash"
+  name = "Shell Programming"
 
 [[feature]]
   icon = "chart-line"
