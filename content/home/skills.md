@@ -44,6 +44,16 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
 
+[[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Git"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
