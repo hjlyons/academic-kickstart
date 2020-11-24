@@ -22,12 +22,17 @@ subtitle = ""
 [[feature]]
   icon = "terminal"
   icon_pack = "fas"
-  name = "Shell Programming"
+  name = "Shell"
 
 [[feature]]
-  icon = "chart-line"
+  icon = "file-code"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "C++"
+
+[[feature]]
+  icon = "cogs"
+  icon_pack = "fas"
+  name = "Machine Learning
 
 [[feature]]
   icon = "dice"
@@ -35,9 +40,9 @@ subtitle = ""
   name = "Monte Carlo"
 
 [[feature]]
-  icon = "atom"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Physics"
+  name = "Statistics"
 
 
 # Uncomment to use emoji icons.
