@@ -32,7 +32,7 @@ subtitle = ""
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
-  name = "Machine Learning
+  name = "Machine Learning"
 
 [[feature]]
   icon = "dice"
