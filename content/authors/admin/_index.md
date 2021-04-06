@@ -43,9 +43,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/hjlyons
-- icon: gitlab
+- icon: linkedin-in
   icon_pack: fab
-  link: https://gitlab.cern.ch/halyons
+  link: https://www.linkedin.com/in/hjlyons/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
